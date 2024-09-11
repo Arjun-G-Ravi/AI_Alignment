@@ -1,2 +1,3 @@
 # AI_Alignment
-Me trying to study AI alignment
+
+Contains my note for AI Alignment and Interpretability.
